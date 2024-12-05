@@ -5,5 +5,5 @@ I’m a **Freelance Web Developer** with over **2 years of experience** in build
 - 📫 How to reach me: 
   - **web**: https://www.digitalrohitpro.com
   - **Phone**: +9779862333337
-  - **Email**: [Your Email]
+  - **Email**: digitalrohitpro@gmail.com
   - **LinkedIn**: [Rohit Sinjali on LinkedIn](https://www.linkedin.com/in/rohit-sinjali-magar-862788197)
